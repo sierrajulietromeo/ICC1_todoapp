@@ -61,8 +61,9 @@ def delete_task(task_id):
 
 
 if __name__ == '__main__':
-    app.run(debug=True,
-    host='0.0.0.0',  # EStablishes the host, required for repl to detect the site
+    app.run(debug=False,
+    host='0.0.0.0', 
+    port=80
     )
 
             
