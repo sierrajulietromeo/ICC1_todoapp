@@ -16,6 +16,8 @@ A simple Flask-based To-Do application that lets you manage tasks with prioritie
 
 ## Getting Started
 
+See the Tango Guide **[here](https://app.tango.us/app/workflow/Create-and-Configure-Azure-VM-for-Todo-App-58d526e854564c769259ad3d02b8c872)**
+
 ### Prerequisites
 
 - Python 3.x
